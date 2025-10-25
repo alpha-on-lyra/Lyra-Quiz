@@ -4,4 +4,6 @@ Lyra quiz is sub app of Lyra Ai , and it is Used for Quiz And it is Working on G
 
 Main Page For Lyra Quiz : https://lyraai.pages.dev/lyra-quiz/home.html
 
-(Free App)
+
+
+All Versions in [/releases](https://github.com/alpha-on-lyra/Lyra-Quiz/releases)
